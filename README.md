@@ -1,13 +1,12 @@
-# Sample Hardhat Project
+# Gdrive 3.0
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Google drive for images but with a web3 taste
 
+(you need to have Metamask installed and have some sepolia eth in it)
 Try running some of the following tasks:
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+cd client
+npm install
+npm run start
 ```
