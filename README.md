@@ -10,3 +10,5 @@ cd client
 npm install
 npm run start
 ```
+
+see contract deployment [link](https://sepolia.etherscan.io/address/0x02e6fc868bb9d1a576f9d2cea17f830302266d32)
